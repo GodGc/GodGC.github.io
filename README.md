@@ -1,0 +1,2 @@
+# GodGC.github.io
+blog
